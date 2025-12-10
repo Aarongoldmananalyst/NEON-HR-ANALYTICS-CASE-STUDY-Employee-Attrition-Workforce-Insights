@@ -35,16 +35,36 @@ The neon-themed Power BI dashboard and SQL-based transformations deliver insight
 
 ---
 
+
+
 # 🛠️ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Analytics-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Workforce%20Analytics-6A1B9A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MIT%20License-2ECC71?style=for-the-badge&logo=open-source-initiative&logoColor=white"/>
+  <a href="https://learn.microsoft.com/sql" target="_blank">
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/power-bi" target="_blank">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  </a>
+
+  <a href="https://dax.guide" target="_blank">
+    <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge"/>
+  </a>
+
+  <a href="https://www.ibm.com/topics/data-analytics" target="_blank">
+    <img src="https://img.shields.io/badge/Data%20Analytics-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white"/>
+  </a>
+
+  <a href="https://www.shrm.org/resourcesandtools/hr-topics/organizational-and-employee-development/pages/workforce-analytics.aspx" target="_blank">
+    <img src="https://img.shields.io/badge/Workforce%20Analytics-6A1B9A?style=for-the-badge"/>
+  </a>
+
+  <a href="https://opensource.org/licenses/MIT" target="_blank">
+    <img src="https://img.shields.io/badge/MIT%20License-2ECC71?style=for-the-badge&logo=open-source-initiative&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
