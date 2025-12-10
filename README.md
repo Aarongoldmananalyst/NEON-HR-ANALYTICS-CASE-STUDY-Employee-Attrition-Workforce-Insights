@@ -8,9 +8,12 @@
 
 <br>
 
+
+<br>
+
 <h1 align="center">🧠 NEON HR ANALYTICS CASE STUDY</h1>
 <h3 align="center">Employee Attrition & Workforce Insights</h3>
-<h4 align="center">SQL + Power BI • 18,500 Employees • End-to-End Workforce Intelligence</h4>
+<h4 align="center">SQL + Power BI • 18,500 Employees • Workforce Intelligence</h4>
 
 <br>
 
@@ -20,7 +23,7 @@ An end-to-end HR Analytics solution powered by **SQL Server**, **Power BI**, and
 
 # ✨ About This Project
 
-This project uncovers why employees leave, which departments are at risk, how compensation affects attrition, and what demographic trends reveal about the workforce.
+This project reveals why employees leave, which departments are at risk, how compensation affects attrition, and what demographic trends reveal about the workforce.
 
 The neon-themed Power BI dashboard and SQL-based transformations deliver insights that enable HR leaders to:
 
@@ -62,21 +65,33 @@ The neon-themed Power BI dashboard and SQL-based transformations deliver insight
 
 # 📎 Quick Links
 
-- 📄 **Storytelling Deck (PDF)** — [`presentation/NEON_HR_Analytics_Case_Study.pdf`](presentation/NEON_HR_Analytics_Case_Study.pdf)  
-- 📊 **Power BI Dashboard (.pbix)** — [`powerbi/Neon_HR_Analytics_Dashboard.pbix`](powerbi/Neon_HR_Analytics_Dashboard.pbix)  
-- 🧮 **SQL Scripts** — [`sql/`](sql/)  
-- 🧠 **Insights Summary** — [`docs/insights_summary.md`](docs/insights_summary.md)  
-- 🧾 **Data Dictionary** — [`data/data_dictionary.md`](data/data_dictionary.md)  
-- 🔧 **Methodology** — [`docs/methodology.md`](docs/methodology.md)  
-- 📐 **DAX Measures** — [`docs/DAX_measures.md`](docs/DAX_measures.md)  
+- 📄 **Storytelling Deck (PDF)**  
+  [`presentation/NEON_HR_Analytics_Case_Study.pdf`](presentation/NEON_HR_Analytics_Case_Study.pdf)
+
+- 📊 **Power BI Dashboard (.pbix)**  
+  [`powerbi/Neon_HR_Analytics_Dashboard.pbix`](powerbi/Neon_HR_Analytics_Dashboard.pbix)
+
+- 🧮 **SQL Scripts**  
+  [`sql/`](sql/)
+
+- 🧠 **Insights Summary**  
+  [`docs/insights_summary.md`](docs/insights_summary.md)
+
+- 🧾 **Data Dictionary**  
+  [`data/data_dictionary.md`](data/data_dictionary.md)
+
+- 🔧 **Methodology**  
+  [`docs/methodology.md`](docs/methodology.md)
+
+- 📐 **DAX Measures**  
+  [`docs/DAX_measures.md`](docs/DAX_measures.md)
 
 ---
 
 # 🖼️ Dashboard Preview
 
 <p align="center">
-  <<<img width="881" height="493" alt="DASHBOARD" src="https://github.com/user-attachments/assets/28ddbaa0-3e66-4740-ad4b-9fbb954d5adf" />
->
+  <<img width="881" height="493" alt="DASHBOARD" src="https://github.com/user-attachments/assets/3783a624-8319-4bfd-98e5-234d51842531" />
 >
 </p>
 
@@ -98,7 +113,7 @@ This dashboard exposes **predictable and preventable** attrition patterns driven
 
 # 🧩 Problem Statement
 
-Organizations face rising turnover and wage compression. HR leaders needed to answer:
+Organizations face rising turnover and wage compression. HR leaders needed answers to:
 
 1. Where are we losing talent?  
 2. Why are employees leaving?  
@@ -118,8 +133,8 @@ This project answers these questions using a **SQL → Power BI** analytics pipe
 - **02_feature_engineering.sql** — creates tenure, age buckets, salary quartiles, etc.  
 - **03_final_fact_table.sql** — builds `FactHR` (dataset used in Power BI)  
 
-📁 See folder: [`sql/`](sql/)  
-📘 Full documentation: [`sql/README.md`](sql/README.md)
+📁 Folder: [`sql/`](sql/)  
+📘 Documentation: [`sql/README.md`](sql/README.md)
 
 ---
 
@@ -160,7 +175,6 @@ Includes DAX for:
 ---
 
 # 📁 Repository Structure
-
 📁 data/
 📁 sql/
 📁 powerbi/
@@ -188,9 +202,9 @@ This shifts HR from reactive to **proactive workforce intelligence**.
 
 ---
 
-# 🎤 Why This Project Matters
+# 🎯 Why This Project Matters
 
-This case study demonstrates your ability to:
+This case study demonstrates my ability to:
 
 - Engineer data using SQL  
 - Build professional dashboards in Power BI with DAX  
@@ -221,5 +235,7 @@ It transforms HR analytics into **strategic decision-making tools**.
 
 # 🌟 Thank You for Exploring This Project  
 This HR Analytics Case Study delivers actionable, visually compelling insights designed for real-world impact.
+
+
 
 
