@@ -5,6 +5,9 @@
 
 
 
+
+<br>
+
 <h1 align="center">🧠 NEON HR ANALYTICS CASE STUDY</h1>
 <h3 align="center">Employee Attrition & Workforce Insights</h3>
 <h4 align="center">SQL + Power BI • 18,500 Employees • End-to-End Workforce Intelligence</h4>
@@ -15,9 +18,9 @@ An end-to-end HR Analytics solution powered by **SQL Server**, **Power BI**, and
 
 ---
 
-# 🧩 About This Project
+# ✨ About This Project
 
-This project reveals why employees leave, which departments are at risk, how compensation affects attrition, and what demographic trends reveal about the workforce.
+This project uncovers why employees leave, which departments are at risk, how compensation affects attrition, and what demographic trends reveal about the workforce.
 
 The neon-themed Power BI dashboard and SQL-based transformations deliver insights that enable HR leaders to:
 
@@ -72,8 +75,9 @@ The neon-themed Power BI dashboard and SQL-based transformations deliver insight
 # 🖼️ Dashboard Preview
 
 <p align="center">
-  <img width="882" height="493" alt="NEON HR CASE STUDY   DASHBOARD" src="https://github.com/user-attachments/assets/cc63ed6a-e1b8-4e22-8d85-e9ad543d03d0" />
-
+  <<<img width="881" height="493" alt="DASHBOARD" src="https://github.com/user-attachments/assets/28ddbaa0-3e66-4740-ad4b-9fbb954d5adf" />
+>
+>
 </p>
 
 ---
@@ -88,105 +92,83 @@ The neon-themed Power BI dashboard and SQL-based transformations deliver insight
 - **Bottom Salary Quartile:** **2.3× more likely** to quit  
 - **Workforce Composition:** Balanced gender but leadership gap persists  
 
-This dashboard reveals **predictable and preventable attrition patterns**, driven by compensation inequities, early-tenure disengagement, and workload imbalances.
+This dashboard exposes **predictable and preventable** attrition patterns driven by compensation inequities, workload imbalances, and early-tenure disengagement.
 
 ---
 
 # 🧩 Problem Statement
 
-Organizations face rising turnover and wage compression in key roles. HR leaders urgently needed clarity on:
+Organizations face rising turnover and wage compression. HR leaders needed to answer:
 
 1. Where are we losing talent?  
 2. Why are employees leaving?  
 3. How does compensation influence attrition?  
-4. Which demographics or tenure groups are at risk?  
-5. What interventions would generate the highest ROI?
+4. Which demographics or tenure groups are most at risk?  
+5. What interventions produce the highest ROI?
 
-This project answers all five using a complete **SQL → Power BI** data pipeline.
+This project answers these questions using a **SQL → Power BI** analytics pipeline.
 
 ---
 
 # 🧱 Data Engineering (SQL)
 
-## 📌 Scripts Included
+### 📌 **Scripts Included**
 
 - **01_data_cleaning.sql** — cleans raw HR data  
 - **02_feature_engineering.sql** — creates tenure, age buckets, salary quartiles, etc.  
 - **03_final_fact_table.sql** — builds `FactHR` (dataset used in Power BI)  
 
-See folder: [`sql/`](sql/)  
-Full documentation: [`sql/README.md`](sql/README.md)
+📁 See folder: [`sql/`](sql/)  
+📘 Full documentation: [`sql/README.md`](sql/README.md)
 
 ---
 
-# 🔍 Key Insights (from insights_summary.md)
+# 🔍 Key Insights (from `insights_summary.md`)
 
-## 🔥 Attrition
+### 🔥 **Attrition**
 - Early-tenure employees churn fastest  
-- Sales & Operations show structural instability  
+- Sales & Operations show structural risk  
 
-## 💰 Compensation
+### 💰 **Compensation**
 - Pay gaps strongly correlate with attrition  
-- Operational roles are under-compensated  
+- Operational roles experience wage compression  
 
-## 👥 Workforce Composition
-- Strong gender balance  
-- Leadership representation gap for women  
+### 👥 **Workforce Composition**
+- Strong gender balance overall  
+- Leadership representation gap for women persists  
 
-## 🕒 Tenure
-- Retention dramatically improves after year 3  
+### 🕒 **Tenure**
+- Retention improves dramatically after year 3  
 
-Full insights:  
-[`docs/insights_summary.md`](docs/insights_summary.md)
+📘 Full insights: [`docs/insights_summary.md`](docs/insights_summary.md)
 
 ---
 
 # 📐 DAX Measures (Power BI)
 
-Includes measures for:
+Includes DAX for:
 
 - Attrition Rate  
 - Total Employees  
 - Active Employees  
 - Avg Salary  
-- Gender Counts  
-- Tenure metrics  
+- Gender Metrics  
+- Tenure Calculations  
 
-Full list:  
-[`docs/DAX_measures.md`](docs/DAX_measures.md)
+📘 Full list: [`docs/DAX_measures.md`](docs/DAX_measures.md)
 
 ---
 
 # 📁 Repository Structure
-📂 NEON HR ANALYTICS CASE STUDY — Employee Attrition & Workforce Insights/
-│
-├── README.md
-│
-├── 📁 data/
-│ ├── HR_Analytics_18500_Employees.csv
-│ └── data_dictionary.md
-│
-├── 📁 sql/
-│ ├── 01_data_cleaning.sql
-│ ├── 02_feature_engineering.sql
-│ ├── 03_final_fact_table.sql
-│ └── README.md
-│
-├── 📁 powerbi/
-│ └── Neon_HR_Analytics_Dashboard.pbix
-│
-├── 📁 presentation/
-│ ├── NEON_HR_Analytics_Case_Study.pdf
-│ └── Storytelling_Deck.pdf
-│
-├── 📁 images/
-│ ├── banner.png
-│ ├── dashboard_preview.png
-│
-└── 📁 docs/
-├── methodology.md
-├── insights_summary.md
-├── DAX_measures.md
+
+📁 data/
+📁 sql/
+📁 powerbi/
+📁 presentation/
+📁 images/
+📁 docs/
+README.md
+LICENSE
 
 
 ---
@@ -208,16 +190,16 @@ This shifts HR from reactive to **proactive workforce intelligence**.
 
 # 🎤 Why This Project Matters
 
-This case study demonstrates:
+This case study demonstrates your ability to:
 
-- SQL-based data engineering  
-- Power BI dashboard development with DAX  
-- Workforce & attrition analytics  
-- Compensation equity analysis  
-- Data storytelling & executive communication  
-- ROI-driven recommendations  
+- Engineer data using SQL  
+- Build professional dashboards in Power BI with DAX  
+- Analyze workforce & compensation patterns  
+- Tell compelling business stories  
+- Communicate insights to leadership  
+- Deliver ROI-driven recommendations  
 
-It transforms HR analytics into **strategic workforce intelligence**.
+It transforms HR analytics into **strategic decision-making tools**.
 
 ---
 
