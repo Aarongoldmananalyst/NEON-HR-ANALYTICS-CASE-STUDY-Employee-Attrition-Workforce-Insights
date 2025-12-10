@@ -1,13 +1,14 @@
 <!-- Banner Image -->
 <p align="center">
-  <img width="1536" height="1024" alt="REPO BANNER" src="https://github.com/user-attachments/assets/43d18efa-a7b1-4cf8-abbb-e7c1b9f28263" />
+  <img width="846" height="470" alt="BANNER" src="https://github.com/user-attachments/assets/03ba73bb-0fa8-4313-b952-40b888e16d65" />
+
 
 </p>
 
+<h1 align="center">🧠  NEON HR ANALYTICS CASE STUDY — Employee Attrition & Workforce Insights</h1>
 
 
-# 🧠 NEON HR Analytics Case Study  
-## **Employee Attrition & Workforce Insights**
+
 An end-to-end HR Analytics solution powered by **SQL Server**, **Power BI**, and **data storytelling**, analyzing workforce patterns across **18,500 employees**.
 
 ---
