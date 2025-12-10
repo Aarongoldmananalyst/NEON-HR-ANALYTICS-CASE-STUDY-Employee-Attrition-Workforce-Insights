@@ -40,74 +40,42 @@ The neon-themed Power BI dashboard and SQL-based transformations deliver insight
 # 🛠️ Tech Stack
 
 <p>
-  <a href="https://learn.microsoft.com/sql" target="_blank">
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  </a>
-
-  <a href="https://learn.microsoft.com/power-bi" target="_blank">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  </a>
-
-  <a href="https://dax.guide" target="_blank">
-    <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge"/>
-  </a>
-
-  <a href="https://www.ibm.com/topics/data-analytics" target="_blank">
-    <img src="https://img.shields.io/badge/Data%20Analytics-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white"/>
-  </a>
-
-  <a href="https://www.shrm.org/resourcesandtools/hr-topics/organizational-and-employee-development/pages/workforce-analytics.aspx" target="_blank">
-    <img src="https://img.shields.io/badge/Workforce%20Analytics-6A1B9A?style=for-the-badge"/>
-  </a>
-
-  <a href="https://opensource.org/licenses/MIT" target="_blank">
-    <img src="https://img.shields.io/badge/MIT%20License-2ECC71?style=for-the-badge&logo=open-source-initiative&logoColor=white"/>
-  </a>
+<a href="https://learn.microsoft.com/sql" target="_blank"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a><a href="https://learn.microsoft.com/power-bi" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></a><a href="https://dax.guide" target="_blank"><img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge"/></a><a href="https://www.ibm.com/topics/data-analytics" target="_blank"><img src="https://img.shields.io/badge/Data%20Analytics-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white"/></a><a href="https://www.shrm.org/resourcesandtools/hr-topics/organizational-and-employee-development/pages/workforce-analytics.aspx" target="_blank"><img src="https://img.shields.io/badge/Workforce%20Analytics-6A1B9A?style=for-the-badge"/></a><a href="https://opensource.org/licenses/MIT" target="_blank"><img src="https://img.shields.io/badge/MIT%20License-2ECC71?style=for-the-badge&logo=open-source-initiative&logoColor=white"/></a>
 </p>
 
 
+
 ---
+
+
 
 # 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR-GITHUB" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/aaron-goldmans/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="mailto:aarondatascientist@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://github.com/Aarongoldmananalyst" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+
+
+---
+
+
+# 📎 Quick Links
+
+<p>
+<a href="presentation/NEON_HR_Analytics_Case_Study.pdf" target="_blank">📄 Storytelling Deck (PDF)</a><br>
+<a href="powerbi/Neon_HR_Analytics_Dashboard.pbix" target="_blank">📊 Power BI Dashboard (.pbix)</a><br>
+<a href="sql/" target="_blank">🧮 SQL Scripts</a><br>
+<a href="docs/insights_summary.md" target="_blank">🧠 Insights Summary</a><br>
+<a href="data/data_dictionary.md" target="_blank">🧾 Data Dictionary</a><br>
+<a href="docs/methodology.md" target="_blank">🔧 Methodology</a><br>
+<a href="docs/DAX_measures.md" target="_blank">📐 DAX Measures</a>
 </p>
 
 ---
 
-# 📎 Quick Links
 
-- 📄 **Storytelling Deck (PDF)**  
-  [`presentation/NEON_HR_Analytics_Case_Study.pdf`](presentation/NEON_HR_Analytics_Case_Study.pdf)
 
-- 📊 **Power BI Dashboard (.pbix)**  
-  [`powerbi/Neon_HR_Analytics_Dashboard.pbix`](powerbi/Neon_HR_Analytics_Dashboard.pbix)
-
-- 🧮 **SQL Scripts**  
-  [`sql/`](sql/)
-
-- 🧠 **Insights Summary**  
-  [`docs/insights_summary.md`](docs/insights_summary.md)
-
-- 🧾 **Data Dictionary**  
-  [`data/data_dictionary.md`](data/data_dictionary.md)
-
-- 🔧 **Methodology**  
-  [`docs/methodology.md`](docs/methodology.md)
-
-- 📐 **DAX Measures**  
-  [`docs/DAX_measures.md`](docs/DAX_measures.md)
-
----
 
 # 🖼️ Dashboard Preview
 
@@ -242,15 +210,7 @@ It transforms HR analytics into **strategic decision-making tools**.
 # 🤝 Connect & Explore
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR-GITHUB" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/aaron-goldmans/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="mailto:aarondatascientist@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://github.com/Aarongoldmananalyst" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
