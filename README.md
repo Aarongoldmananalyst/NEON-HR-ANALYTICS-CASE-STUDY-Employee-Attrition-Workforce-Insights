@@ -63,7 +63,7 @@ The neon-themed Power BI dashboard and SQL-based transformations deliver insight
 # 📎 Quick Links
 
 <p>
-<a href="presentation/NEON_HR_Analytics_Case_Study.pdf" target="NEON HR ANALYTICS CASE STUDY_ Employee Attrition & Workforce Insights.pdf">📄 Storytelling Deck (PDF)</a><br>
+<a href="presentation/NEON_HR_Analytics_Case_Study.pdf" target="NEON_HR_Analytics_Case_Study.pdf.">📄 Storytelling Deck (PDF)</a><br>
 <a href="powerbi/Neon_HR_Analytics_Dashboard.pbix" target="_blank">📊 Power BI Dashboard (.pbix)</a><br>
 <a href="sql/" target="_blank">🧮 SQL Scripts</a><br>
 <a href="docs/insights_summary.md" target="_blank">🧠 Insights Summary</a><br>
