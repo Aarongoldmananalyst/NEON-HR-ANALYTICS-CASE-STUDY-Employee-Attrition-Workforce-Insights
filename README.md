@@ -80,8 +80,8 @@ The neon-themed Power BI dashboard and SQL-based transformations deliver insight
 # 🖼️ Dashboard Preview
 
 <p align="center">
-  <<img width="881" height="493" alt="DASHBOARD" src="https://github.com/user-attachments/assets/087190d0-11c0-40e9-ac89-78c98fb2be08" />
->
+  <img width="881" height="493" alt="DASHBOARD" src="https://github.com/user-attachments/assets/087190d0-11c0-40e9-ac89-78c98fb2be08" />
+
 </p>
 
 ---
@@ -194,7 +194,7 @@ This shifts HR from reactive to **proactive workforce intelligence**.
 
 # 🎯 Why This Project Matters
 
-This case study demonstrates your ability to:
+This case study demonstrates the ability to:
 
 - Engineer data using SQL  
 - Build professional dashboards in Power BI with DAX  
