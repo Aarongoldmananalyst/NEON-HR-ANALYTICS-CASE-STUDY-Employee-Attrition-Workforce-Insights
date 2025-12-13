@@ -33,8 +33,9 @@ https://github.com/user-attachments/assets/f1909c2f-8c93-455e-84a8-31c17d892bf7
 
 ### 🔍 Interactive Case Study Walkthrough (Silent Demo)
 
-This silent walkthrough demonstrates how the Power BI dashboard supports exploratory workforce analysis:
 
+
+### This silent walkthrough demonstrates how the Power BI dashboard supports exploratory workforce analysis:
 - Click-based cross-filtering across departments, tenure groups, education, and gender  
 - Responsive KPIs that update dynamically with each selection  
 - Hover tooltips providing detailed metric context  
@@ -81,7 +82,6 @@ The neon-themed Power BI dashboard and SQL-based transformations deliver insight
 
 ---
 
-
 # 📎 Quick Links
 
 <p>
@@ -94,17 +94,12 @@ The neon-themed Power BI dashboard and SQL-based transformations deliver insight
 <a href="docs/DAX_measures.md" target="_blank">📐 DAX Measures</a>
 </p>
 
----
 
 
 
 
-# 🖼️ Dashboard Preview
 
-<p align="center">
-  <img width="881" height="493" alt="DASHBOARD" src="https://github.com/user-attachments/assets/087190d0-11c0-40e9-ac89-78c98fb2be08" />
 
-</p>
 
 ---
 
