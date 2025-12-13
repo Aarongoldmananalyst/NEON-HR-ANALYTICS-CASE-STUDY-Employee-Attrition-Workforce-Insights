@@ -8,11 +8,17 @@
 
 
 
+
+
+
+
 <br>
 
 <h1 align="center">🧠 NEON HR ANALYTICS CASE STUDY</h1>
 <h3 align="center">Employee Attrition & Workforce Insights</h3>
 <h4 align="center">SQL • Power BI • 18,500 Employees • Workforce Intelligence</h4>
+
+
 
 <br>
 
@@ -21,6 +27,8 @@ An end-to-end HR Analytics solution powered by **SQL Server**, **Power BI**, and
 
   
 <br>
+https://github.com/user-attachments/assets/f1909c2f-8c93-455e-84a8-31c17d892bf7
+
 
 # ✨ About This Project
 
