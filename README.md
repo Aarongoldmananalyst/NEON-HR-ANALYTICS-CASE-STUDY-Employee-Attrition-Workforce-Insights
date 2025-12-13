@@ -27,8 +27,22 @@ An end-to-end HR Analytics solution powered by **SQL Server**, **Power BI**, and
 
   
 <br>
+
+---
 https://github.com/user-attachments/assets/f1909c2f-8c93-455e-84a8-31c17d892bf7
 
+### 🔍 Interactive Case Study Walkthrough (Silent Demo)
+
+This silent walkthrough demonstrates how the Power BI dashboard supports exploratory workforce analysis:
+
+- Click-based cross-filtering across departments, tenure groups, education, and gender  
+- Responsive KPIs that update dynamically with each selection  
+- Hover tooltips providing detailed metric context  
+- Designed for fast investigation of attrition drivers and workforce risk segments  
+
+The dashboard enables HR leaders to move from high-level trends to root-cause insights in seconds.
+
+---
 
 # ✨ About This Project
 
