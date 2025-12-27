@@ -1,6 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <img width="846" height="470" alt="BANNER" src="https://github.com/user-attachments/assets/03ba73bb-0fa8-4313-b952-40b888e16d65" />
+  <img width="1536" height="1024" alt="POWER BI" src="https://github.com/user-attachments/assets/00a129a9-3419-4710-bde2-df456342b623" />
+
 
 
 
